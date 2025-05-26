@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "images/themes/avatar_1.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Nazmus Saqib"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Researcher"
+  location         : "South Korea"
+  employer         : "Jeju National University"
   uri              : # URL
   email            : "none@example.org" 
 

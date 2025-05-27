@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a full-time AI researcher in computer vision and AI at Intelligent Computing Lab, Jeju National University, South Korea advised by Prof. Joon-Min Gil. I am also enrolled as a part-time researcher of Computer Vision Lab, University of Vaasa, under the supervision of Prof. Jani Bouttelier. I completed my Master in Computer Engineering at Chosun University, advised by Prof. Ho Yub Jung. My research is inspired by solving image inverse problems and implementation diffusion-based models in image, and video generation and translation. 
+I am a full-time researcher at the Intelligent Computing Lab, Jeju National University, South Korea, under the supervision of Professor Joon-Min Gil, where I focus on advanced topics in artificial intelligence and computer vision. In parallel, I serve as a part-time researcher at the Computer Vision Lab, University of Vaasa, Finland, working under the guidance of Professor Jani Bouttelier. I earned my Master’s degree in Computer Engineering from Chosun University, South Korea, where I was advised by Professor Ho Yub Jung. My research interests lie at the intersection of image inverse problems and diffusion-based generative modeling, with applications spanning image and video generation, translation, and restoration. My ongoing work is driven by the goal of developing robust and efficient deep learning models that advance the state-of-the-art in visual understanding and synthesis.
 
 A data-driven personal website
 ======

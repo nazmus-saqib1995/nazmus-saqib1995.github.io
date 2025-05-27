@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a full-time AI researcher in computer vision and AI at Intelligent Computing Lab, Jeju National University, South Korea advised by Professor. Joon-Min Gil. I completed my Master in Computer Engineering at Chosun University, advised by Professor. Ho Yub Jung. My research is inspired by solving image inverse 
+I am a full-time AI researcher in computer vision and AI at Intelligent Computing Lab, Jeju National University, South Korea advised by Professor. Joon-Min Gil. I completed my Master in Computer Engineering at Chosun University, advised by Professor. Ho Yub Jung. My research is inspired by solving image inverse problems and implementation diffusion-based models in image, and video generation and translation.  
 
 A data-driven personal website
 ======

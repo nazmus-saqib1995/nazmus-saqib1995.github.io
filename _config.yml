@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ab_sc_CSGO2.png"
+  avatar           : "https://nazmus-saqib1995.github.io/images/ab_sc_CSGO2.png"
   name             : "Nazmus Saqib"
   pronouns         : # example: "she/her"  
   bio              : "Researcher"

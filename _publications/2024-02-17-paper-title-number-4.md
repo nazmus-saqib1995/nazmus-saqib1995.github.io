@@ -1,25 +1,24 @@
 ---
-title: "STAM Zero-shot Style Transfer using Diffusion Model via Attention Modulation"
+title: "FlexTok: Resampling Images into 1D Token Sequences of Flexible Length"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-stam-zero-shot-style-transfer
-excerpt: 'Zero-shot style transfer using diffusion models via attention modulation.'
-date: 2025-06-01
-venue: 'CVPR 2025 Workshop'
-paperurl: 'http://your-paper-link.com/paper.pdf'
-citation: 'Masud AN Nur Islam Fahim, Nazmus Saqib, Jani Boutellier. (2025). &quot;STAM Zero-shot Style Transfer using Diffusion Model via Attention Modulation.&quot; <i>CVPR 2025 Workshop</i>.'
+permalink: /publication/2025-flextok
+excerpt: 'Resampling images into 1D token sequences of flexible length.'
+date: 2025-01-01
+venue: 'ICML 2025'
+paperurl: 'http://your-paper-link.com/flextok.pdf'
+citation: 'Roman Bachmann*, Jesse Allardice*, David Mizrahi*, Enrico Fini, Oğuzhan Fatih Kar, Elmira Amirloo, Alaaeldin El-Nouby, Amir Zamir, Afshin Dehghan. (2025). &quot;FlexTok: Resampling Images into 1D Token Sequences of Flexible Length.&quot; <i>ICML 2025</i>.'
 ---
 
-## STAM: Zero-shot Style Transfer using Diffusion Model via Attention Modulation
+## FlexTok: Resampling Images into 1D Token Sequences of Flexible Length
 
-**Authors:** Masud AN Nur Islam Fahim, Nazmus Saqib, Jani Boutellier
+**Authors:** Roman Bachmann*, Jesse Allardice*, David Mizrahi*, Enrico Fini, Oğuzhan Fatih Kar, Elmira Amirloo, Alaaeldin El-Nouby, Amir Zamir, Afshin Dehghan
 
-**Venue:** CVPR 2025 Workshop
+*\* Equal contribution*
 
-[Paper](http://your-paper-link.com/paper.pdf) | [Website](http://your-website-link.com) | [Code](http://your-code-link.com)
+**Venue:** ICML 2025
+
+[Website](http://your-website-link.com) | [Demo](http://your-demo-link.com) | [Code](http://your-code-link.com)
 
 ### Abstract
 [Add your abstract here]
-
-### Key Contributions
-[Add key contributions here]

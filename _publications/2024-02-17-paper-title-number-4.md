@@ -1,24 +1,15 @@
 ---
-title: "FlexTok: Resampling Images into 1D Token Sequences of Flexible Length"
+title: "ADA-Track++: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association"
 collection: publications
 category: conferences
-permalink: /publication/2025-flextok
-excerpt: 'Resampling images into 1D token sequences of flexible length.'
-date: 2025-01-01
-venue: 'ICML 2025'
-paperurl: 'http://your-paper-link.com/flextok.pdf'
-citation: 'Roman Bachmann*, Jesse Allardice*, David Mizrahi*, Enrico Fini, Oğuzhan Fatih Kar, Elmira Amirloo, Alaaeldin El-Nouby, Amir Zamir, Afshin Dehghan. (2025). &quot;FlexTok: Resampling Images into 1D Token Sequences of Flexible Length.&quot; <i>ICML 2025</i>.'
+permalink: /publication/2025-ada-track
+excerpt: 'End-to-end multi-camera 3D multi-object tracking.'
+date: 2025-10-01
+venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
+status: '©IEEE'
+paperurl: 'http://your-link.com/paper.pdf'
+image: '/images/publications/ada-track.png'
+citation: 'Ding S., Schneider L., Cordts M., and Gall J. (2025). &quot;ADA-Track++: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association.&quot; <i>IEEE TPAMI</i>. ©IEEE.'
 ---
 
-## FlexTok: Resampling Images into 1D Token Sequences of Flexible Length
-
-**Authors:** Roman Bachmann*, Jesse Allardice*, David Mizrahi*, Enrico Fini, Oğuzhan Fatih Kar, Elmira Amirloo, Alaaeldin El-Nouby, Amir Zamir, Afshin Dehghan
-
-*\* Equal contribution*
-
-**Venue:** ICML 2025
-
-[Website](http://your-website-link.com) | [Demo](http://your-demo-link.com) | [Code](http://your-code-link.com)
-
-### Abstract
-[Add your abstract here]
+[PDF](http://your-link.com/paper.pdf) | [Code](http://your-code-link.com)

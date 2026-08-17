@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-06-11-stam-style-transfer
 excerpt: 'A training-free, zero-shot approach to image style transfer that steers a pretrained diffusion model through attention modulation.'
-date: 2025-06-11
+date: 2025
 venue: 'CVPR 2025 Workshop (CVPRW)'
 # paperurl: 'https://your-link/stam.pdf'      # uncomment and add the PDF link
 # slidesurl: 'https://your-link/stam-slides.pdf'
